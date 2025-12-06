@@ -3,7 +3,6 @@ Master the Toolkit of AI and Machine Learning. Mathematics for Machine Learning 
 
 
 
-
 ## About this Specialization
 Mathematics for Machine Learning and Data Science is a foundational online program created by DeepLearning.AI and taught by Luis Serrano. This beginner-friendly Specialization is where you’ll master the fundamental mathematics toolkit of machine learning.
 
